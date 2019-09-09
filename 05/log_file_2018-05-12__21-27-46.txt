@@ -1,0 +1,75 @@
+
+---Downloaded files---
+The import files for: Boombox Original were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://correctbae.ng
+Data file = /home/admin/web/correctbae.ng/public_html/wp-content/uploads/2018/05/demo-content-import-file_2018-05-12__21-27-46.xml
+Widget file = /home/admin/web/correctbae.ng/public_html/wp-content/uploads/2018/05/demo-widgets-import-file_2018-05-12__21-27-46.json
+Customizer file = /home/admin/web/correctbae.ng/public_html/wp-content/uploads/2018/05/demo-customizer-import-file_2018-05-12__21-27-46.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Default : 
+
+Boombox Create Post - Become a member - Imported
+bp_core_members_widget - Popular Members - Site does not support widget
+Boombox Trending Posts - Trending - Imported
+mc4wp_form_widget - No Title - Site does not support widget
+Boombox Sticky Sidebar - No Title - Imported
+Text - Ad from Default widget - Imported
+Boombox Social Widget - Connect With Us - Imported
+
+Page 1 : 
+
+mc4wp_form_widget - No Title - Site does not support widget
+Boombox Trending Posts - Trending - Imported
+Boombox Create Post - Become a member - Imported
+bp_core_members_widget - Popular Members - Site does not support widget
+Boombox Sticky Sidebar - No Title - Imported
+Text - Ad from Page 1 widget - Imported
+Boombox Social Widget - Connect With Us - Imported
+
+Page 2 : 
+
+mc4wp_form_widget - No Title - Site does not support widget
+Boombox Picked Posts - BoomBox Pick - Imported
+Text - Ad from Page 2 widget - Imported
+
+Page 3 : 
+
+Text - Ad from Page 3 widget - Imported
+Boombox Sticky Sidebar - No Title - Imported
+
+Footer Left : 
+
+Recent Comments - No Title - Imported
+
+Footer Middle : 
+
+Boombox Social Widget - Connect With Us - Imported
+
+Footer Right : 
+
+Text - Disclaimer - Imported
+
+sidebar-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Imported to Inactive
+Recent Posts - No Title - Imported to Inactive
+Recent Comments - No Title - Imported to Inactive
+Archives - No Title - Imported to Inactive
+Categories - No Title - Imported to Inactive
+Meta - No Title - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---pt-ocdi/after_import---
+
